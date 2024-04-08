@@ -1,4 +1,4 @@
-Weather Prediction Application
+Weather Checking Application
 Overview
 This Python script allows users to check the weather for a specific city, manage a list of favorite cities, and perform CRUD (Create, Read, Update, Delete) operations on the favorites list.
 
