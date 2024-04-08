@@ -1,0 +1,27 @@
+Weather Prediction Application
+Overview
+This Python script allows users to check the weather for a specific city, manage a list of favorite cities, and perform CRUD (Create, Read, Update, Delete) operations on the favorites list.
+
+Prerequisites
+Python installed on your system.
+An API key from WeatherAPI. You can sign up for a free account and get your API key here.
+Functionality
+Weather Checking
+Users can input a city name to check the current weather conditions and temperature.
+Favorites Management
+Users can add cities to their favorites list.
+Users can remove cities from their favorites list.
+Users can view their list of favorite cities.
+How to Use
+Run the Script: Follow the steps outlined in the "Running Python Files in Command Prompt (CMD)" section to run the weather.py script.
+
+Choose an Action: After running the script, you will be prompted to choose an action:
+
+Enter 1 to check the weather for a city.
+Enter 2 to show your list of favorite cities.
+Enter 3 to add a city to your favorites list.
+Enter 4 to remove a city from your favorites list.
+Enter 5 to quit the application.
+Follow Prompts: Depending on your chosen action, you may be prompted to enter a city name or perform other actions.
+
+View Weather Information: The script will display weather information for the chosen city or perform the selected favorites management action.
